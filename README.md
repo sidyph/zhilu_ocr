@@ -14,6 +14,10 @@ split_text 将文本切割成单字符
 
 zhilu_ocr 使用训练所得的字库（如命名为yhj的字库），用来识别待识别文字
 
+# 程序执行方式
+
+执行test_read_picture.py中的test_read_picture函数即可在out_path中观察到结果
+
 # ocr识别教程
 
 参见该链接内容：https://www.jianshu.com/p/8b4d789f234c
