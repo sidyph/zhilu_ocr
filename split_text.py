@@ -2,9 +2,6 @@
 #将
 
 import cv2
-import numpy as np
-from yfrm import pd
-from collections import Counter
 import os
 
 yuzhi = 150

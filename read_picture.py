@@ -7,7 +7,6 @@
 #coding = utf-8
 import cv2
 import numpy as np
-from yfrm import pd
 
 class ReadTable:
     kernel_rect_3_3 = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))
